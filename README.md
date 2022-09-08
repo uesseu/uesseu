@@ -7,7 +7,12 @@
 I developped extreeeeemly high speed real-time EEG/MEG analyzer.🚗===   
 Extreamly high speed in real-time analysis means "Extreamly detailed analysis".🔍  
 Unfortunately, the program is still private.(´・ω・｀)  
-However, I want to make part of my software OSS.( ･`ω･´)
+However, I want to make part of my software OSS.( ･`ω･´)  
+
+2022-9-8  
+Oh...my...(´・ω・｀)  
+I applied for a patent with the algorithm, so I can't make it into OSS.(´；ω；｀)ｳｯ…  
+
 <!---
 uesseu/uesseu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
